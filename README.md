@@ -12,9 +12,9 @@ Jestem programistą z zajawką na tworzenie **gier, aplikacji webowych oraz mobi
 # ![Kotlin](https://img.shields.io/badge/-Kotlin-0095D5?style=for-the-badge&logo=kotlin&logoColor=white)
 
 # 🎮 Co robię?
-## - 🕵️‍♂️ **Code-Breakout** - gra kryminalna z użyciem **Unity** i **C#**
-## - 🕵️‍♂️ Piszę projekty hakerskie z użyciem **Python** oraz **Arduino**
-## - 🌐 Tworzę **stronę internetową** pod moją grę
+### - 🕵️‍♂️ **Code-Breakout** - gra kryminalna z użyciem **Unity** i **C#**
+### - 🕵️‍♂️ Piszę projekty hakerskie z użyciem **Python** oraz **Arduino**
+### - 🌐 Tworzę **stronę internetową** pod moją grę
 
 # 🧠 Obecnie uczę się:
 ## - ![PHP](https://img.shields.io/badge/-PHP-777BB4?style=for-the-badge&logo=php&logoColor=white)
