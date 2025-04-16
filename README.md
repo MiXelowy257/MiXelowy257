@@ -17,9 +17,9 @@ Jestem programistą z zajawką na tworzenie **gier, aplikacji webowych oraz mobi
 ### - 🌐 Tworzę **stronę internetową** pod moją grę
 
 # 🧠 Obecnie uczę się:
-## - ![PHP](https://img.shields.io/badge/-PHP-777BB4?style=for-the-badge&logo=php&logoColor=white)
-## - ![Arduino](https://img.shields.io/badge/-Arduino-00979D?style=for-the-badge&logo=arduino&logoColor=white)
-## - Tworzenie urządzeń hakerskich z użyciem **Arduino**
+### - ![PHP](https://img.shields.io/badge/-PHP-777BB4?style=for-the-badge&logo=php&logoColor=white)
+### - ![Arduino](https://img.shields.io/badge/-Arduino-00979D?style=for-the-badge&logo=arduino&logoColor=white)
+### - Tworzenie urządzeń hakerskich z użyciem **Arduino**
 ---
 
 📊 **Statystyki**
