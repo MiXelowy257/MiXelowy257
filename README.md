@@ -1,6 +1,6 @@
 # 👋 O mnie: 
 
-Jestem programistą z zajawką na tworzenie **gier, aplikacji webowych oraz mobilnych** oraz **cyberbezpieczeństwo**. 
+## Jestem programistą z zajawką na tworzenie **gier, aplikacji webowych oraz mobilnych** oraz **cyberbezpieczeństwo**. 
 
 # 🔧 Najczęściej korzystam
 
@@ -13,7 +13,7 @@ Jestem programistą z zajawką na tworzenie **gier, aplikacji webowych oraz mobi
 
 # 🎮 Co robię?
 ### - 🕵️‍♂️ **Code-Breakout** - gra kryminalna z użyciem **Unity** i **C#**
-### - 🕵️‍♂️ Piszę projekty hakerskie z użyciem **Python** oraz **Arduino**
+### - 🕵️‍♂️ Piszę projekty hakerskie z użyciem **Python**
 ### - 🌐 Tworzę **stronę internetową** pod moją grę
 
 # 🧠 Obecnie uczę się:
@@ -24,5 +24,5 @@ Jestem programistą z zajawką na tworzenie **gier, aplikacji webowych oraz mobi
 
 📊 **Statystyki**
 
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=twoj-nick&show_icons=true&theme=tokyonight)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=twoj-nick&layout=compact&theme=tokyonight)
+![GitHub stats](https://github-readme-stats.vercel.app/api?username=MiXelowy257&show_icons=true&theme=tokyonight)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=MiXelowy257&layout=compact&theme=tokyonight)
