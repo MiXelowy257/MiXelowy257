@@ -1,15 +1,15 @@
 # 👋 O mnie: 
 
-Jestem programistą z zajawką na tworzenie **gier, aplikacji webowych oraz mobilnych**. Zajmuję się również **cyberbezpieczeństwem**. 
+Jestem programistą z zajawką na tworzenie **gier, aplikacji webowych oraz mobilnych** oraz **cyberbezpieczeństwo**. 
 
 # 🔧 Najczęściej korzystam
 
-# ![Python](https://img.shields.io/badge/-Python-3776AB?style=flat-square&logo=python&logoColor=white)
-# ![C#](https://img.shields.io/badge/-CSharp-239120?style=flat-square&logo=c-sharp&logoColor=white)
-# ![Unity](https://img.shields.io/badge/-Unity-000000?style=flat-square&logo=unity&logoColor=white)
-# ![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
-# ![MySQL](https://img.shields.io/badge/-MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white)
-# ![Kotlin](https://img.shields.io/badge/-Kotlin-0095D5?style=flat-square&logo=kotlin&logoColor=white)
+# ![Python](https://img.shields.io/badge/-Python-3776AB?style=for-the-badge&logo=python&logoColor=white)&nbsp;&nbsp;&nbsp;
+# ![C#](https://img.shields.io/badge/-CSharp-239120?style=for-the-badge&logo=c-sharp&logoColor=white)&nbsp;&nbsp;&nbsp;
+# ![Unity](https://img.shields.io/badge/-Unity-000000?style=for-the-badge&logo=unity&logoColor=white)&nbsp;&nbsp;&nbsp;
+# ![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)&nbsp;&nbsp;&nbsp;
+# ![MySQL](https://img.shields.io/badge/-MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)&nbsp;&nbsp;&nbsp;
+# ![Kotlin](https://img.shields.io/badge/-Kotlin-0095D5?style=for-the-badge&logo=kotlin&logoColor=white)&nbsp;&nbsp;&nbsp;
 
 # 🎮 Co robię?
  - 🕵️‍♂️ **Code-Breakout** - gra kryminalna z użyciem **Unity** i **C#**
