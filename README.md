@@ -30,7 +30,7 @@
 ### - 🕵️‍♂️ **Code-Breakout** - gra kryminalna z użyciem **Unity**, **C#** oraz **Blendera**
 ### - 👨‍💻 **Exploity** oraz ich rozszerzenia
 
-# 🧠 Learning:
+# 🧠 Uczę sie:
 ### - ![PHP](https://img.shields.io/badge/-PHP-777BB4?style=for-the-badge&logo=php&logoColor=white)
 ### - ![Ruby](https://img.shields.io/badge/-Ruby-CC342D?style=for-the-badge&logo=ruby&logoColor=white)
 ### - ![Arduino](https://img.shields.io/badge/-Arduino-00979D?style=for-the-badge&logo=arduino&logoColor=white)
