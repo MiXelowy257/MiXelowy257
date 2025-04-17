@@ -56,7 +56,7 @@
 
 ### - ![Ruby](https://img.shields.io/badge/-Ruby-CC342D?style=for-the-badge&logo=ruby&logoColor=white)
 ### - ![Arduino](https://img.shields.io/badge/-Arduino-00979D?style=for-the-badge&logo=arduino&logoColor=white)
-### - Improving skills in other programming languages
+### - Improving skills in previous programming languages
 ---
 
 📊 **Statistics**
